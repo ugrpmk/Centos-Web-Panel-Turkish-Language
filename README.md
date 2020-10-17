@@ -8,3 +8,5 @@ Türkçe Admin Moduller için aşağıdaki dosya yolu
 
 NOT: Admin modulleri Türkçeye çevrilmemiştir. 
 CWP Ver: 0.9.8.1016
+
+WinSCP programı ile sunucunuza bağlanıp yukarıdaki yollardan dosyaları üstüne yazdırabilirsiniz.
